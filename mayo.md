@@ -8,8 +8,6 @@ Not really who came with the mayo recipe, also don't get why it is so popular
 * egg yolks 
 * lemon juice
 * seasoning (salt, pepper, sugar)
- 
-- Ingredient 2
 
 ## Instructions
 
