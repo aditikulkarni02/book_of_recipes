@@ -4,7 +4,11 @@ Some history
 
 ## Ingredients
 
-- Ingredient 1 
+* oil
+* egg yolks 
+* lemon juice
+* seasoning (salt, pepper, sugar)
+ 
 - Ingredient 2
 
 ## Instructions
