@@ -1,6 +1,6 @@
 # Mayonaise
 
-Some history
+Not really who came with the mayo recipe, also don't get why it is so popular
 
 ## Ingredients
 
@@ -10,5 +10,5 @@ Some history
 ## Instructions
 
 - Mix everything
-- Enjoy!
+- Enjoy! (if possible)
 
